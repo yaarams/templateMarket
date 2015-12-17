@@ -21,7 +21,7 @@
     "underscore": "~1.8.3"
   },
   "scripts": {
-    "postinstall": "grunt -f",
+    "postinstall": "bower install && grunt -f",
     "start": "node server.js"
   },
   "devDependencies": {
