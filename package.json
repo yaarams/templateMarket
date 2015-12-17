@@ -2,6 +2,8 @@
   "author": "Nementon",
   "dependencies": {
     "express": "3.x",
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
     "underscore": "~1.8.3"
   },
   "scripts": {
