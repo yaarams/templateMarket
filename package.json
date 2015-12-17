@@ -1,6 +1,7 @@
 {
   "author": "Nementon",
   "dependencies": {
+    "coffeelint": "^1.14.2",
     "express": "3.x",
     "grunt": "^0.4.5",
     "grunt-bump": "0.0.6",
